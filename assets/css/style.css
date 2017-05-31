@@ -1,0 +1,59 @@
+body{
+
+	background-image: url("../images/vintage.png");
+}
+
+#title{
+	height: 50px;
+	width: 250px;
+	background: orange;
+}
+
+#instructions{
+	background-color: #dcf5f2;
+	width: 50%;
+}
+
+#randomNumber{
+	display: inline-block;
+	background-color:green;
+	width: 100px;
+	height: 75px;
+}
+
+#winsLosses{
+	display: inline-block;
+	background-color:blue;
+	clear: right;
+	height: 75px;
+	width: 75px;
+}
+
+#pic1{
+	display: inline-block;
+
+}
+
+#pic2{
+	display: inline;
+}
+
+#pic3{
+	display: inline;
+}
+
+#pic4{
+	display: inline;
+}
+
+#totalScore{
+	width: 100px;
+	height: 100px;
+	background-color: orange;
+}
+
+img{
+	width: 100px;
+	height: 100px;
+	cursor: pointer;
+}
